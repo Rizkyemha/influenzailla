@@ -304,22 +304,22 @@
 
           &:nth-child(1) {
             .section-content-03-bg {
-              background-image: url("/images/bg_section_03_01.jpg");
+              background-image: url("../images/bg_section_03_01.jpg");
             }
           }
           &:nth-child(2) {
             .section-content-03-bg {
-              background-image: url("/images/bg_section_03_02.jpg");
+              background-image: url("../images/bg_section_03_02.jpg");
             }
           }
           &:nth-child(3) {
             .section-content-03-bg {
-              background-image: url("/images/bg_section_03_03.jpg");
+              background-image: url("../images/bg_section_03_03.jpg");
             }
           }
           &:nth-child(4) {
             .section-content-03-bg {
-              background-image: url("/images/bg_section_03_04.jpg");
+              background-image: url("../images/bg_section_03_04.jpg");
             }
           }
 
