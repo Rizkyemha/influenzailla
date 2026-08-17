@@ -37,6 +37,12 @@
   max-width: var(--max-width-section-mobile);
 }
 
+@media (max-height: 43rem) {
+  .section-content {
+    min-height: 104svh;
+  }
+}
+
 @media (min-width: 48rem) {
   .section-content,
   header > .header-wrapper,
