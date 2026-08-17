@@ -1,0 +1,23 @@
+.highlight {
+  background: linear-gradient(
+    91.17deg,
+    #c6f1f7 -4.01%,
+    #f983e9 36.14%,
+    #b877ff 77.44%,
+    #c2e9cd 106.11%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.bg-highlight {
+  background: linear-gradient(
+    91.17deg,
+    #c6f1f7 -4.01%,
+    #f983e9 36.14%,
+    #b877ff 77.44%,
+    #c2e9cd 106.11%
+  );
+  -webkit-text-fill-color: transparent;
+}

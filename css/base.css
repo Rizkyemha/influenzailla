@@ -1,0 +1,59 @@
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", "Unbounded", sans-serif;
+  font-size: 1rem;
+  margin: 0 auto;
+  padding: 0;
+  background-color: var(--color-bg);
+  color: var(--color-text);
+}
+
+body.no-scroll {
+  overflow: hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+button {
+  padding: 0;
+  margin: 0;
+  background-color: transparent;
+  border: none;
+}
+
+a,
+button {
+  opacity: 1;
+  transition: opacity 0.2s;
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover,
+button:hover {
+  opacity: 0.5;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  li {
+    padding: 0;
+    list-style: none;
+  }
+}

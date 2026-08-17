@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Unbounded:wght@200..900&display=swap");
+
+:root {
+  --font-inter: "Inter", sans-serif;
+  --font-unbound: "Unbounded", sans-serif;
+
+  --max-width-section-mobile: 20.938rem;
+  --max-width-section-desktop: 78.125rem;
+
+  --color-bg: #111111;
+  --color-text: #e4e4e4;
+}
