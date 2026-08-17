@@ -1,5 +1,5 @@
-@import "/css/base.css";
-@import "/css/variables.css";
-@import "/css/block.css";
-@import "/css/layout.css";
-@import "/css/utils.css";
+@import "./css/base.css";
+@import "./css/variables.css";
+@import "./css/block.css";
+@import "./css/layout.css";
+@import "./css/utils.css";
